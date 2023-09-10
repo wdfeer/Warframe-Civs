@@ -96,8 +96,8 @@
     "innerColor": [255, 13, 13],
     "uniques": [
       "[2] free [Warrior] units appear",
-      "[+50]% growth [in all cities]",
-      "[-50]% Unhappiness from [Population] [in all cities]",
+      "[+40]% growth [in all cities]",
+      "[-40]% Unhappiness from [Population] [in all cities]",
       "[+3 Production, -3 Science] [in capital]",
       "[-75]% [Culture]"
     ],
