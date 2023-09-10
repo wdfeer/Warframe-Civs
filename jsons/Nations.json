@@ -63,5 +63,64 @@
       "E Gate",
       "V Prime"
     ]
+  },
+  {
+    "name": "Grineer",
+    "leaderName": "Elder Queen",
+    "adjective": ["Grineer"],
+    "startBias": ["Avoid [Snow]"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+
+    "declaringWar": "You shall fall.",
+    "attacked": "How foolish.",
+    "defeated": "I have failed...",
+    "introduction": "Hello.",
+
+    "neutralHello": "Hello.",
+    "neutralLetsHearIt": ["Go on.", "What do you say?", "You may begin."],
+    "neutralNo": ["We absolutely refuse.", "No!", "I refuse."],
+    "neutralYes": ["Very good.", "Fine.", "Very well."],
+
+    "hateHello": "What do you want now?",
+    "hateLetsHearIt": ["Speak!", "What do you say?", "Go on."],
+    "hateNo": ["That is not possible!", "We are not agreeing to that!", "..."],
+    "hateYes": ["That is fine.", "That is good enough.", "Fine."],
+
+    "afterPeace": "You may live. For now.",
+    "tradeRequest": "You will trade with us.",
+
+    "outerColor": [236, 236, 236],
+    "innerColor": [255, 13, 13],
+    "uniques": [
+      "[+30]% growth [in all cities]",
+      "[-60]% Unhappiness from [Population] [in all cities]",
+      "[-50]% [Culture]",
+      "[-50]% [Faith]"
+    ],
+    "cities": [
+      "Kuva Fortress",
+      "Merrow",
+      "Oro",
+      "Tethys",
+      "War",
+      "Titania",
+      "Tolstoj",
+      "Vodyanoi",
+      "Yam",
+      "Nakki",
+      "Kelpie",
+      "Kappa",
+      "Marid",
+      "Charybdis",
+      "Adaro",
+      "Hydron",
+      "Berehynia",
+      "Dakata",
+      "Keeler",
+      "Cassini"
+    ]
   }
 ]
