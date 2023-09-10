@@ -2,7 +2,7 @@
   {
     "name": "Phasers",
     "unitType": "Ranged",
-    "uniqueTo": "Aliens",
+    "uniqueTo": "Corpus",
     "replaces": "Machine Gun",
     "movement": 2,
     "strength": 90,
