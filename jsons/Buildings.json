@@ -1,25 +1,12 @@
 [
   {
-    "name": "Holodeck",
-    "replaces": "Circus Maximus",
-    "uniqueTo": "Corpus",
-    "cost": 480,
-    "happiness": 12,
-    "culture": 12,
-    "science": 12,
-    "maintenance": 96,
-    "isNationalWonder": true,
-    "requiredBuildingInAllCities": "Colosseum",
-    "requiredTech": "Horseback Riding"
-  },
-  {
-    "name": "Breeders",
-    "replaces": "Aqueduct",
+    "name": "Corpus Board of Directors",
+    "replaces": "Shrine",
     "uniqueTo": "Corpus",
     "cost": 80,
-    "hurryCostModifier": 160,
-    "happiness": 2,
-    "uniques": ["40% of food is carried over after a new citizen is born"],
-    "requiredTech": "Engineering"
+    "culture": 2,
+    "science": 2,
+    "happiness": -1,
+    "maintenance": 2
   }
 ]
