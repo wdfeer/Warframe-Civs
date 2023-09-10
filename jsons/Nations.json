@@ -34,8 +34,7 @@
     "outerColor": [236, 255, 255],
     "innerColor": [32, 150, 180],
     "uniques": [
-      "[+1 Gold] per [2] population [in all cities]",
-      "[Gold] cost of purchasing [Military] units [-25]%",
+      "[Gold] cost of purchasing items in cities [-40]%",
       "May not generate great prophet equivalents naturally"
     ],
     "cities": [
@@ -96,10 +95,8 @@
     "innerColor": [255, 13, 13],
     "uniques": [
       "[2] free [Warrior] units appear",
-      "[+40]% growth [in all cities]",
-      "[-40]% Unhappiness from [Population] [in all cities]",
-      "[+3 Production, -3 Science] [in capital]",
-      "[-75]% [Culture]"
+      "[+1 Food, +1 Production, +1 Happiness] [in all cities] <when at war>",
+      "[+100]% growth [in all cities] <starting from the [Atomic era]>"
     ],
     "cities": [
       "Kuva Fortress",
