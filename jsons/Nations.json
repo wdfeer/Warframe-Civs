@@ -95,10 +95,11 @@
     "outerColor": [236, 236, 236],
     "innerColor": [255, 13, 13],
     "uniques": [
-      "[+30]% growth [in all cities]",
-      "[-60]% Unhappiness from [Population] [in all cities]",
-      "[-50]% [Culture]",
-      "[-50]% [Faith]"
+      "[2] free [Warrior] units appear",
+      "[+50]% growth [in all cities]",
+      "[-50]% Unhappiness from [Population] [in all cities]",
+      "[+3 Production, -3 Science] [in capital]",
+      "[-75]% [Culture]"
     ],
     "cities": [
       "Kuva Fortress",
