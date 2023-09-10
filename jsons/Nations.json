@@ -31,8 +31,8 @@
     "afterPeace": "Very well, all that fighting was getting boring anyway.",
     "tradeRequest": "We bestow you the honor of this trade offer.",
 
-    "outerColor": [16, 16, 16],
-    "innerColor": [255, 200, 200],
+    "outerColor": [236, 255, 255],
+    "innerColor": [32, 150, 180],
     "uniques": [
       "[+30]% [Gold] [in annexed cities]",
       "[Gold] cost of purchasing [Military] units [-30]%"
