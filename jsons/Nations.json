@@ -34,8 +34,9 @@
     "outerColor": [236, 255, 255],
     "innerColor": [32, 150, 180],
     "uniques": [
-      "[+30]% [Gold] [in annexed cities]",
-      "[Gold] cost of purchasing [Military] units [-30]%"
+      "[+1 Gold] per [2] population [in all cities]",
+      "[Gold] cost of purchasing [Military] units [-25]%",
+      "May not generate great prophet equivalents naturally"
     ],
     "cities": [
       "Corposium",
