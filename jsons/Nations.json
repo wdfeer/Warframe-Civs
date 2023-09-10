@@ -1,13 +1,13 @@
 [
   {
-    "name": "Aliens",
-    "leaderName": "Zyxxyz",
-    "adjective": ["alien"],
+    "name": "Corpus",
+    "leaderName": "Parvos Granum",
+    "adjective": ["Corpus"],
     "startBias": ["Snow"],
     "preferredVictoryType": "Scientific",
 
-    "startIntroPart1": "We come in peace!",
-    "startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+    "startIntroPart1": "We come for profit!",
+    "startIntroPart2": "",
 
     "declaringWar": "Resistance is futile! Prepare to be assimilated!",
     "attacked": "You want to play? Very funny!",
