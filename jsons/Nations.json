@@ -33,7 +33,10 @@
 
     "outerColor": [16, 16, 16],
     "innerColor": [255, 200, 200],
-    "unique": "MANIFEST_DESTINY",
+    "uniques": [
+      "[+30]% [Gold] [in annexed cities]",
+      "[Gold] cost of purchasing [Military] units [-30]%"
+    ],
     "cities": [
       "The Hive",
       "Q'Throczan",
