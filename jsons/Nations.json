@@ -9,27 +9,27 @@
     "startIntroPart1": "",
     "startIntroPart2": "",
 
-    "declaringWar": "Resistance is futile! Prepare to be assimilated!",
-    "attacked": "You want to play? Very funny!",
-    "defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-    "introduction": "As superior galactic entities, you are not worthy of our attention.",
+    "declaringWar": "Resistance is futile! I will make great profits from you!",
+    "attacked": "You want to profit from us?",
+    "defeated": "Impossible!",
+    "introduction": "Let's make some great profits! Grofits!",
 
-    "neutralHello": "How are you doing?",
+    "neutralHello": "Are you making profits?",
     "neutralLetsHearIt": ["Go on.", "What do you say?", "You may begin."],
     "neutralNo": ["We absolutely refuse.", "No!", "I refuse."],
-    "neutralYes": ["Very good.", "Of course, yes.", "That is very good."],
+    "neutralYes": ["Very good.", "Great.", "That is very profitable."],
 
     "hateHello": "What do you want now?",
     "hateLetsHearIt": ["Speak!", "What do you say?", "Go on."],
     "hateNo": [
-      "That is not possible!",
-      "We are not agreeing to that!",
+      "That is not profitable!",
+      "We are not profiting from that!",
       "I beg your pardon?"
     ],
-    "hateYes": ["That is fine.", "That is good enough.", "Very well..."],
+    "hateYes": ["That is fine.", "That is good enough.", "Fine."],
 
-    "afterPeace": "Very well, all that fighting was getting boring anyway.",
-    "tradeRequest": "We bestow you the honor of this trade offer.",
+    "afterPeace": "Very well, let's end this unprofitable war",
+    "tradeRequest": "We bestow you the honor of making profits with us.",
 
     "outerColor": [236, 255, 255],
     "innerColor": [32, 150, 180],
