@@ -1,14 +1,15 @@
 [
   {
     "name": "Corpus Board of Directors",
-    "replaces": "Shrine",
+    "isNationalWonder": true,
     "uniqueTo": "Corpus",
-    "requiredBuilding": "Palace",
-    "cost": 100,
+    "requiredTech": "Economics",
+    "cost": 400,
     "culture": 2,
     "science": 2,
-    "happiness": -2,
-    "maintenance": 0
+    "happiness": "-2",
+    "maintenance": 5,
+    "uniques": ["[+100]% of excess happiness converted to [Gold]"]
   },
   {
     "name": "Rathuum",
