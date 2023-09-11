@@ -45,7 +45,6 @@
       "Themisto",
       "Illiad",
       "Fossa",
-      "Apollo",
       "Acheron",
       "Regna",
       "Cypress",
@@ -73,13 +72,13 @@
     "startIntroPart1": "",
     "startIntroPart2": "",
 
-    "declaringWar": "You shall fall.",
-    "attacked": "How foolish.",
+    "declaringWar": "We will kill you!",
+    "attacked": "You will pay!",
     "defeated": "I have failed...",
     "introduction": "Hello.",
 
     "neutralHello": "Hello.",
-    "neutralLetsHearIt": ["Go on.", "What do you say?", "You may begin."],
+    "neutralLetsHearIt": ["Go on.", "What do you say?", "You may speak."],
     "neutralNo": ["We absolutely refuse.", "No!", "I refuse."],
     "neutralYes": ["Very good.", "Fine.", "Very well."],
 
@@ -95,7 +94,7 @@
     "innerColor": [255, 13, 13],
     "uniques": [
       "[2] free [Warrior] units appear",
-      "[+1 Food, +1 Production, +1 Happiness] [in all cities] <when at war>",
+      "[+1 Production, +1 Happiness] [in all cities] <when at war>",
       "[+50]% growth [in all cities] <starting from the [Atomic era]>"
     ],
     "cities": [
@@ -119,6 +118,61 @@
       "Dakata",
       "Keeler",
       "Cassini"
+    ]
+  },
+  {
+    "name": "Orokin",
+    "leaderName": "Tuvul",
+    "adjective": ["Orokin"],
+    "startBias": ["Avoid [Desert]"],
+    "preferredVictoryType": "Scientific",
+
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+
+    "declaringWar": "You shall fall.",
+    "attacked": "How foolish.",
+    "defeated": "I have failed...",
+    "introduction": "Greetings.",
+
+    "neutralHello": "Greetings.",
+    "neutralLetsHearIt": ["Go on.", "What do you say?", "You may begin."],
+    "neutralNo": ["We refuse.", "No.", "I refuse."],
+    "neutralYes": ["Very good.", "Fine.", "Very well."],
+
+    "hateHello": "What do you want now?",
+    "hateLetsHearIt": ["Speak!", "What do you say?", "Go on."],
+    "hateNo": ["That is not possible!", "We are not agreeing to that!", "No!"],
+    "hateYes": ["That is fine.", "That is good enough.", "Fine."],
+
+    "afterPeace": "Very well, let's end all this fighting.",
+    "tradeRequest": "Would you like to trade with us?",
+
+    "outerColor": [249, 249, 241],
+    "innerColor": [253, 212, 34],
+    "uniques": [
+      "Double quantity of [Gold Ore] produced",
+      "[+2 Culture] from every [Academy]",
+      "[+2 Science] from every [Landmark]"
+    ],
+    "cities": [
+      "Circulus",
+      "Apollo",
+      "Mot",
+      "Pavlov",
+      "Plato",
+      "Yuvarium",
+      "Aden",
+      "Mithra",
+      "Belenus",
+      "Oxomoco",
+      "Ukko",
+      "Tiwaz",
+      "Stribog",
+      "Ani",
+      "Taranis",
+      "Teshub",
+      "Hepit"
     ]
   }
 ]
