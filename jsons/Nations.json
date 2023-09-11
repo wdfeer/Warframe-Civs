@@ -149,7 +149,7 @@
     "tradeRequest": "Would you like to trade with us?",
 
     "outerColor": [249, 249, 241],
-    "innerColor": [253, 212, 34],
+    "innerColor": [230, 188, 10],
     "uniques": [
       "Double quantity of [Gold Ore] produced",
       "[+2 Culture] from every [Academy]",
