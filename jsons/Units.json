@@ -1,0 +1,12 @@
+[
+  {
+    "name": "MOA",
+    "unitType": "Gunpowder",
+    "uniqueTo": "Corpus",
+    "movement": 3,
+    "strength": 70,
+    "cost": 150,
+    "requiredTech": "Robotics",
+    "attackSound": "shot"
+  }
+]
