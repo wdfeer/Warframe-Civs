@@ -175,5 +175,40 @@
       "Teshub",
       "Hepit"
     ]
+  },
+  {
+    "name": "Sentient",
+    "leaderName": "Hunhow",
+    "adjective": ["Sentient"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+
+    "declaringWar": "You will be assimilated.",
+    "attacked": "How foolish.",
+    "defeated": "...",
+    "introduction": "Hello.",
+
+    "neutralHello": "Greetings.",
+    "neutralLetsHearIt": ["Go on.", "What do you say?", "You may begin."],
+    "neutralNo": ["We refuse.", "No.", "I refuse."],
+    "neutralYes": ["Very good.", "Fine.", "Very well."],
+
+    "hateHello": "What do you want now?",
+    "hateLetsHearIt": ["Speak!", "What do you say?", "Go on."],
+    "hateNo": ["That is not possible!", "We are not agreeing to that!", "No!"],
+    "hateYes": ["That is fine.", "That is good enough.", "Fine."],
+
+    "afterPeace": "Very well, let's end this war.",
+    "tradeRequest": "Would you like to trade with us?",
+
+    "outerColor": [230, 224, 209],
+    "innerColor": [128, 59, 59],
+    "uniques": [
+      "[+200]% XP gained from combat",
+      "\"Borrows\" city names from other civilizations in the game"
+    ],
+    "cities": ["Tau"]
   }
 ]
