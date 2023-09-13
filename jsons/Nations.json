@@ -206,7 +206,10 @@
     "outerColor": [230, 224, 209],
     "innerColor": [128, 59, 59],
     "uniques": [
-      "[+200]% XP gained from combat",
+      "[+1 Food] from [Snow] tiles [in all cities]",
+      "[+1 Food] from [Tundra] tiles [in all cities]",
+      "[+1 Food] from [Desert] tiles [in all cities]",
+      "[+100]% XP gained from combat",
       "\"Borrows\" city names from other civilizations in the game"
     ],
     "cities": ["Tau"]
