@@ -208,10 +208,8 @@
     "outerColor": [230, 224, 209],
     "innerColor": [128, 59, 59],
     "uniques": [
-      "[+1 Food] from [Snow] tiles [in all cities]",
-      "[+1 Food] from [Tundra] tiles [in all cities]",
-      "[+1 Food] from [Desert] tiles [in all cities]",
-      "[+100]% XP gained from combat",
+      "All newly-trained [Land] units [in all cities] receive the [Shock I] promotion",
+      "All newly-trained [Land] units [in all cities] receive the [Barrage I] promotion",
       "\"Borrows\" city names from other civilizations in the game"
     ],
     "cities": ["Tau"]
