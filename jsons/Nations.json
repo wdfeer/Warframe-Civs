@@ -67,7 +67,7 @@
     "name": "Grineer",
     "leaderName": "Elder Queen",
     "adjective": ["Grineer"],
-    "startBias": ["Avoid [Snow]"],
+    "startBias": ["Jungle"],
     "preferredVictoryType": "Domination",
 
     "startIntroPart1": "",
@@ -181,6 +181,7 @@
     "name": "Sentient",
     "leaderName": "Hunhow",
     "adjective": ["Sentient"],
+    "startBias": ["Avoid [Grassland]"],
     "preferredVictoryType": "Domination",
 
     "startIntroPart1": "",
@@ -219,6 +220,7 @@
     "name": "Narmer",
     "leaderName": "Ballas",
     "adjective": ["Narmer"],
+    "startBias": ["Avoid [Plains]"],
     "preferredVictoryType": "Domination",
 
     "startIntroPart1": "",
