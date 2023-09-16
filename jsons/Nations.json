@@ -246,7 +246,7 @@
     "innerColor": [228, 50, 10],
     "uniques": [
       "May buy [Military] units with [Faith] for [2] times their normal Production cost",
-      "[Faith] cost of purchasing items in cities [-25]%",
+      "[+1 Faith] from [All] tiles [in capital]",
       "\"Borrows\" city names from other civilizations in the game"
     ],
     "cities": ["Erra"]
