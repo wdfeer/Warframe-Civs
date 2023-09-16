@@ -35,7 +35,8 @@
     "innerColor": [32, 150, 180],
     "uniques": [
       "[Gold] cost of purchasing items in cities [-40]% <while the empire is happy>",
-      "[-60]% [Faith]"
+      "[-25]% [Gold] <when below [5] Happiness>",
+      "[-75]% [Faith] <when below [10] Happiness>"
     ],
     "cities": [
       "Corposium",
