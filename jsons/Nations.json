@@ -10,7 +10,7 @@
     "startIntroPart2": "",
 
     "declaringWar": "Resistance is futile! I will make great profits from you!",
-    "attacked": "You want to profit from us?",
+    "attacked": "How dare you!",
     "defeated": "Impossible!",
     "introduction": "Let's make some great profits! Grofits!",
 
@@ -131,7 +131,7 @@
     "startIntroPart1": "",
     "startIntroPart2": "",
 
-    "declaringWar": "You shall fall.",
+    "declaringWar": "You will perish by my hand.",
     "attacked": "How foolish.",
     "defeated": "I have failed...",
     "introduction": "Greetings.",
@@ -187,7 +187,7 @@
     "startIntroPart2": "",
 
     "declaringWar": "You will be assimilated.",
-    "attacked": "How foolish.",
+    "attacked": "Very well.",
     "defeated": "...",
     "introduction": "Hello.",
 
@@ -224,7 +224,7 @@
     "startIntroPart1": "",
     "startIntroPart2": "",
 
-    "declaringWar": "You will be assimilated.",
+    "declaringWar": "I will liberate your folk!",
     "attacked": "How foolish.",
     "defeated": "This cannot be happening!",
     "introduction": "Hello.",
