@@ -126,7 +126,7 @@
     "leaderName": "Tuvul",
     "adjective": ["Orokin"],
     "startBias": ["Avoid [Desert]"],
-    "preferredVictoryType": "Scientific",
+    "preferredVictoryType": "Cultural",
 
     "startIntroPart1": "",
     "startIntroPart2": "",
@@ -152,10 +152,9 @@
     "outerColor": [250, 250, 242],
     "innerColor": [204, 167, 9],
     "uniques": [
-      "Double quantity of [Gold Ore] produced",
-      "[+2 Culture] from every [Academy]",
-      "[+2 Science] from every [Landmark]",
-      "Free [Settler] appears <upon discovering [Writing]>"
+      "[+1 Science, +1 Culture] from every [Great Improvements]",
+      "Free [Settler] appears <upon discovering [Writing]>",
+      "Gain a free [Neural Sentry] [in capital] <upon entering the [Information era]>"
     ],
     "cities": [
       "Circulus",

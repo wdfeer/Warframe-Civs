@@ -23,12 +23,10 @@
     "name": "Neural Sentry",
     "isNationalWonder": true,
     "uniqueTo": "Orokin",
-    "requiredTech": "Future Tech",
-    "cost": 1200,
-    "maintenance": 15,
     "uniques": [
       "When defeating a [Military] unit, earn [30] Gold and recruit it",
-      "Destroyed when the city is captured"
+      "Destroyed when the city is captured",
+      "Unbuildable"
     ]
   }
 ]
