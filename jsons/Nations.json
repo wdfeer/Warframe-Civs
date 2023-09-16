@@ -95,8 +95,8 @@
     "innerColor": [255, 13, 13],
     "uniques": [
       "[2] free [Warrior] units appear",
-      "[+1 Production, +1 Happiness] [in all cities] <when at war>",
-      "[+50]% growth [in all cities] <starting from the [Atomic era]>"
+      "[+20]% [Production] <when at war>",
+      "[-20]% [Culture] <when not at war>"
     ],
     "cities": [
       "Kuva Fortress",
