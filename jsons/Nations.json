@@ -213,5 +213,41 @@
       "\"Borrows\" city names from other civilizations in the game"
     ],
     "cities": ["Tau"]
+  },
+  {
+    "name": "Narmer",
+    "leaderName": "Ballas",
+    "adjective": ["Narmer"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+
+    "declaringWar": "You will be assimilated.",
+    "attacked": "How foolish.",
+    "defeated": "This cannot be happening!",
+    "introduction": "Hello.",
+
+    "neutralHello": "Greetings.",
+    "neutralLetsHearIt": ["Go on.", "What do you say?", "You may speak."],
+    "neutralNo": ["We refuse.", "No.", "I refuse."],
+    "neutralYes": ["Very good.", "Fine.", "Very well."],
+
+    "hateHello": "What do you want now?",
+    "hateLetsHearIt": ["Speak!", "What do you say?", "Go on."],
+    "hateNo": ["That is not possible!", "We are not agreeing to that!", "No!"],
+    "hateYes": ["That is fine.", "That is good enough.", "Fine."],
+
+    "afterPeace": "Very well, let's end this war.",
+    "tradeRequest": "Would you like to trade with us?",
+
+    "outerColor": [230, 230, 230],
+    "innerColor": [228, 50, 10],
+    "uniques": [
+      "May buy [Military] units with [Faith] for [2] times their normal Production cost",
+      "[Faith] cost of purchasing items in cities [-25]%",
+      "\"Borrows\" city names from other civilizations in the game"
+    ],
+    "cities": ["Erra"]
   }
 ]
