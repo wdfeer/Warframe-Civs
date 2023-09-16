@@ -15,9 +15,10 @@
     "name": "Rathuum",
     "replaces": "Colosseum",
     "uniqueTo": "Grineer",
+    "requiredTech": "Construction",
     "cost": 120,
     "gold": 3,
-    "happiness": 2,
+    "happiness": 3,
     "maintenance": 2
   },
   {
