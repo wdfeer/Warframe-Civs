@@ -1,0 +1,69 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Corpus Board of Directors
+  rotate: false
+  xy: 4, 428
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+BuildingIcons/Neural Sentry
+  rotate: false
+  xy: 1044, 732
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Rathuum
+  rotate: false
+  xy: 524, 428
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+NationIcons/Corpus
+  rotate: false
+  xy: 1044, 840
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Grineer
+  rotate: false
+  xy: 4, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Narmer
+  rotate: false
+  xy: 212, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Orokin
+  rotate: false
+  xy: 1152, 840
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sentient
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/MOA
+  rotate: false
+  xy: 4, 220
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
