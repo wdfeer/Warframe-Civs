@@ -12,24 +12,24 @@
     "declaringWar": "Resistance is futile! I will make great profits from you!",
     "attacked": "How dare you!",
     "defeated": "Impossible!",
-    "introduction": "Let's make some great profits! Grofits!",
+    "introduction": "Let us make some great profits.",
 
     "neutralHello": "Are you making profits?",
-    "neutralLetsHearIt": ["Go on.", "What do you say?", "You may begin."],
-    "neutralNo": ["We absolutely refuse.", "No!", "I refuse."],
-    "neutralYes": ["Very good.", "Great.", "That is very profitable."],
+    "neutralLetsHearIt": ["So?", "What are you here for?", "You may begin."],
+    "neutralNo": ["We refuse.", "No.", "I refuse."],
+    "neutralYes": ["Very good.", "Alright.", "That is profitable."],
 
     "hateHello": "What do you want now?",
     "hateLetsHearIt": ["Speak!", "What do you say?", "Go on."],
     "hateNo": [
       "That is not profitable!",
-      "We are not profiting from that!",
+      "No!",
       "I beg your pardon?"
     ],
     "hateYes": ["That is fine.", "That is good enough.", "Fine."],
 
     "afterPeace": "Very well, let's end this unprofitable war",
-    "tradeRequest": "We bestow you the honor of making profits with us.",
+    "tradeRequest": "Let us make some profits together.",
 
     "outerColor": [236, 255, 255],
     "innerColor": [32, 150, 180],
