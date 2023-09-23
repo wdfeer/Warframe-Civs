@@ -21,11 +21,7 @@
 
     "hateHello": "What do you want now?",
     "hateLetsHearIt": ["Speak!", "What do you say?", "Go on."],
-    "hateNo": [
-      "That is not profitable!",
-      "No!",
-      "I beg your pardon?"
-    ],
+    "hateNo": ["That is not profitable!", "No!", "I beg your pardon?"],
     "hateYes": ["That is fine.", "That is good enough.", "Fine."],
 
     "afterPeace": "Very well, let's end this unprofitable war",
@@ -153,7 +149,7 @@
     "innerColor": [204, 167, 9],
     "uniques": [
       "[+1 Science, +1 Culture] from every [Great Improvement]",
-      "Free [Settler] appears <upon discovering [Writing]>",
+      "Free [Settler] appears <upon entering the [Classical era]>",
       "Gain a free [Neural Sentry] [in capital] <upon entering the [Information era]>"
     ],
     "cities": [
