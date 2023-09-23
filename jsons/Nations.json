@@ -71,7 +71,7 @@
 
     "declaringWar": "We will kill you!",
     "attacked": "You will pay!",
-    "defeated": "I have failed...",
+    "defeated": "This can't be!",
     "introduction": "Hello.",
 
     "neutralHello": "Hello.",
@@ -183,7 +183,7 @@
     "startIntroPart2": "",
 
     "declaringWar": "You will be assimilated.",
-    "attacked": "Very well.",
+    "attacked": "You may try.",
     "defeated": "...",
     "introduction": "Hello.",
 
@@ -197,12 +197,13 @@
     "hateNo": ["That is not possible!", "We are not agreeing to that!", "No!"],
     "hateYes": ["That is fine.", "That is good enough.", "Fine."],
 
-    "afterPeace": "Very well, let's end this war.",
+    "afterPeace": "Fine, let's continue another time.",
     "tradeRequest": "Would you like to trade with us?",
 
     "outerColor": [230, 224, 209],
     "innerColor": [128, 59, 59],
     "uniques": [
+      "[+15%] Strength <for [Wounded] units>",
       "All newly-trained [Land] units [in all cities] receive the [Shock I] promotion",
       "All newly-trained [Land] units [in all cities] receive the [Barrage I] promotion",
       "\"Borrows\" city names from other civilizations in the game"
