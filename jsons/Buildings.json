@@ -6,7 +6,7 @@
     "requiredTech": "Currency",
     "cost": 300,
     "science": 2,
-    "maintenance": 5,
+    "maintenance": 2,
     "uniques": ["[+100]% of excess happiness converted to [Gold]"]
   },
   {
