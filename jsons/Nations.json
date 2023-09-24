@@ -203,7 +203,7 @@
     "outerColor": [230, 224, 209],
     "innerColor": [128, 59, 59],
     "uniques": [
-      "[+10%] Strength <for [Wounded] units>",
+      "[+10]% Strength <for [Wounded] units>",
       "All newly-trained [Land] units [in all cities] receive the [Shock I] promotion",
       "All newly-trained [Land] units [in all cities] receive the [Barrage I] promotion",
       "\"Borrows\" city names from other civilizations in the game"
