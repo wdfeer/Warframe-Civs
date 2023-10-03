@@ -30,8 +30,8 @@
     "outerColor": [236, 255, 255],
     "innerColor": [32, 150, 180],
     "uniques": [
-      "[+2 Gold] from every [Academy]",
-      "May buy [Great Scientist] units for [500] [Gold] [in all cities] at an increasing price ([500])"
+      "[+100]% Yield from every [Academy]",
+      "[Great Scientist] is earned [-33]% faster"
     ],
     "cities": [
       "Corposium",
