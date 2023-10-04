@@ -90,8 +90,8 @@
     "innerColor": [255, 13, 13],
     "uniques": [
       "[2] free [Warrior] units appear",
-      "[+20]% [Production] <when at war>",
-      "[-20]% [Culture] <when not at war>"
+      "[+1 Food] from every [Fort]",
+      "[+1 Food, +1 Production] from every [Citadel]"
     ],
     "cities": [
       "Kuva Fortress",
